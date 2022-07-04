@@ -1,6 +1,7 @@
 # Poll-Assessment
  
- This is a full featured polling website that allows you to register in this app to create, display 
+
+This is a full featured polling website that allows you to register in this app to create, display 
 the polls and to vote. 
 Only the owner of a poll with superuser or staff access can add poll , edit poll, update poll, delete poll , add choice,
  update choice, delete choice and end a poll. If a poll is ended it can not be voted. 
@@ -17,10 +18,10 @@ machine for development and testing purposes.</p>
 
 <h2>Installing</h2>
 <pre>open terminal and type</pre>
-<code>git clone https://github.com/devmahmud/Django-poll-app.git</code><br><br>
+<code>git clone https://github.com/benjaminagbo/Poll-Assessment.git</code><br><br>
 
 <h4>or simply download using the url below</h4>
-<code>https://github.com/devmahmud/Django-poll-app.git</code><br>
+<code>https://github.com/benjaminagbo/Poll-Assessment.git</code><br>
 
 <h2>To migrate the database open terminal in project directory and type</h2>
 <code>python manage.py migrate</code>
