@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block custom_css %}
+<link rel="stylesheet" href="{% static 'css/home_style.css' %}">
+{% endblock custom_css %}
+
+{% block content %}
+
+<marquee><p align="left" style="color:white"> Welcome to your account {{ request.user.username }} || {{request.user.email}} </p></marquee>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <div id="home-content">
+                <h1>Polling Assessment!</h1>
+                <h3>Welcome to My Poll Assessment!</h3>
+                <hr>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}
