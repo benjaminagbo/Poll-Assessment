@@ -1,6 +1,6 @@
 # Poll-Assessment
  
-This is a full featured polling website that allows you to register in this app to create, display 
+ This is a full featured polling website that allows you to register in this app to create, display 
 the polls and to vote. 
 Only the owner of a poll with superuser or staff access can add poll , edit poll, update poll, delete poll , add choice,
  update choice, delete choice and end a poll. If a poll is ended it can not be voted. 
@@ -36,15 +36,55 @@ machine for development and testing purposes.</p>
 <h2>Assessment snapshot</h2>
 <h3>Home page</h3>
 <div align="center">
-    <img src="" width="100%"</img> 
+    <img src="https://github.com/benjaminagbo/Poll-Assessment/blob/main/snapshot/1.png" width="100%"</img> 
 </div>
 
 <h3>Login Page</h3>
 <div align="center">
-    <img src="" width="100%"</img> 
+    <img src="https://github.com/benjaminagbo/Poll-Assessment/blob/main/snapshot/2.png" width="100%"</img> 
 </div>
 
 <h3>Registration Page</h3>
 <div align="center">
-    <img src="" width="100%"</img> 
+    <img src="https://github.com/benjaminagbo/Poll-Assessment/blob/main/snapshot/3.png" width="100%"</img> 
 </div>
+
+<h3>Poll Creation Main Page</h3>
+<div align="center">
+    <img src="https://github.com/benjaminagbo/Poll-Assessment/blob/main/snapshot/4.png" width="100%"</img> 
+</div>
+
+<h3>Create Poll</h3>
+<div align="center">
+    <img src="https://github.com/benjaminagbo/Poll-Assessment/blob/main/snapshot/5.png" width="100%"</img> 
+</div>
+
+<h3>Add Poll</h3>
+<div align="center">
+    <img src="https://github.com/benjaminagbo/Poll-Assessment/blob/main/snapshot/6.png" width="100%"</img> 
+</div>
+
+<h3>Poll Created</h3>
+<div align="center">
+    <img src="https://github.com/benjaminagbo/Poll-Assessment/blob/main/snapshot/7.png" width="100%"</img> 
+</div>
+
+<h3>Poll Voting Page</h3>
+<div align="center">
+    <img src="https://github.com/benjaminagbo/Poll-Assessment/blob/main/snapshot/8.png" width="100%"</img> 
+</div>
+
+<h3>Poll Result</h3>
+<div align="center">
+    <img src="https://github.com/benjaminagbo/Poll-Assessment/blob/main/snapshot/9.png" width="100%"</img> 
+</div>
+
+<h2>Author</h2>
+<blockquote>
+  Benjamin Chijioke Agbo
+</blockquote>
+
+<div align="center">
+    <h3>========END !!!=========</h3>
+</div>
+
